@@ -1,3 +1,3 @@
 # Demo
 
-Starting new repository.
+Starting new repository!
